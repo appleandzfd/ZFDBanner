@@ -21,6 +21,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    ///add some information
     ZFDBannerView *bannerView = [[ZFDBannerView alloc] initWithFrame:self.topView.frame withImagePaths:@[@"page1.png",@"page2.png",@"page3.png"]];
     [self.topView addSubview:bannerView];
 	// Do any additional setup after loading the view, typically from a nib.
