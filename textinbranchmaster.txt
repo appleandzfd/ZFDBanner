@@ -1,1 +1,2 @@
 text for branch master first added
+add change for version2 ,there must be some difference
